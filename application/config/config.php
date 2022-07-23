@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/research_wafi/crud-ajax-codeigniter-master/';
+$config['base_url'] = 'http://localhost/research_wafi/codeigniter3-crud-ajax/';
 
 /*
 |--------------------------------------------------------------------------
